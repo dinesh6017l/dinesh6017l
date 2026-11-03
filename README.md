@@ -118,13 +118,102 @@ My work focuses on extracting meaningful information from satellite and UAV imag
 
 <div align="center">
 
-<a href="https://github.com/dinesh6017l">
-<img src="https://github-readme-stats.vercel.app/api?username=dinesh6017l&show_icons=true&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=06B6D4&text_color=CBD5E1&rank_icon=github" height="165" />
+### 🌐 DEVELOPER CONTROL CENTER
+
+<img src="https://img.shields.io/badge/PROFILE-DINESH%20BHANDARI-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DOMAIN-GEOAI-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-16A34A?style=for-the-badge"/>
+
+</div>
+
+### ⚡ Development Overview
+
+| Area | Current Focus |
+|:---|:---|
+| 🎓 Education | Geomatics Engineering |
+| 🌍 Main Domain | Geospatial Technology |
+| 🧠 AI & ML | Deep Learning |
+| 🛰️ Remote Sensing | UAV & Satellite Imagery |
+| 💻 Programming | Python & Rust |
+| 🗺️ GIS | QGIS & ArcGIS |
+
+---
+
+### 🧰 Technology Explorer
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,rust,pytorch,tensorflow,opencv,git,github,vscode,docker&theme=dark"/>
+
+</div>
+
+<details>
+<summary><b>🗺️ Geospatial Technologies</b></summary>
+
+- QGIS
+- ArcGIS Pro
+- Google Earth Engine
+- PostGIS
+- Rasterio
+- GeoPandas
+
+</details>
+
+<details>
+<summary><b>🤖 Artificial Intelligence</b></summary>
+
+- U-Net
+- DeepLabV3+
+- SegNet
+- SegFormer
+- PyTorch
+- Computer Vision
+
+</details>
+
+---
+
+### 🚀 Project Launchpad
+
+<div align="center">
+
+<a href="https://github.com/dinesh6017l?tab=repositories">
+<img src="https://img.shields.io/badge/01-EXPLORE%20REPOSITORIES-0891B2?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://github.com/dinesh6017l">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh6017l&layout=compact&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1&langs_count=8" height="165"/>
+<a href="https://github.com/dinesh6017l?tab=projects">
+<img src="https://img.shields.io/badge/02-VIEW%20PROJECTS-0F766E?style=for-the-badge&logo=github"/>
 </a>
+
+<a href="https://github.com/dinesh6017l?tab=stars">
+<img src="https://img.shields.io/badge/03-STARRED%20PROJECTS-7C3AED?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+### 📡 Live GitHub Profile
+
+<div align="center">
+
+<a href="https://github.com/dinesh6017l">
+<img src="https://img.shields.io/badge/OPEN%20GITHUB%20PROFILE-View%20Account-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/dinesh6017l.atom">
+<img src="https://img.shields.io/badge/GITHUB%20ACTIVITY-RSS%20FEED-FF6F00?style=for-the-badge&logo=rss&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+**BUILDING • LEARNING • EXPLORING**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=GeoAI+%7C+Remote+Sensing+%7C+GIS;Turning+Spatial+Data+Into+Insights;Always+Exploring+New+Technologies"/>
 
 </div>
 
