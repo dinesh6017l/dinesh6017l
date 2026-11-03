@@ -1,238 +1,223 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                 DINESH BHANDARI | GEOAI                       -->
+<!--             DINESH BHANDARI | GEOAI ENGINEER                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:102A43,100:087E8B&height=180&section=header&text=Dinesh%20Bhandari&fontSize=46&fontColor=E6F7FF&fontAlignY=38&animation=fadeIn&desc=Geomatics%20Engineering%20%E2%80%A2%20GeoAI%20%E2%80%A2%20Remote%20Sensing&descSize=15&descAlignY=60&descColor=8DE1E8" width="100%" />
-
-</div>
-
-<!-- TYPING ANIMATION -->
-
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=22B8CF&center=true&vCenter=true&width=650&lines=Exploring+the+Digital+Earth.;Turning+Geospatial+Data+into+Intelligence.;GeoAI+%7C+Deep+Learning+%7C+Remote+Sensing.;Mapping+the+World%2C+One+Pixel+at+a+Time.;Learning.+Building.+Improving." alt="Typing SVG" />
-</a>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,25:0C4A6E,55:0891B2,80:0E7490,100:020617&text=DINESH%20BHANDARI&fontSize=48&fontColor=E0F7FA&fontAlignY=38&desc=GEOAI%20%7C%20GEOMATICS%20ENGINEERING%20%7C%20REMOTE%20SENSING&descSize=15&descAlignY=58&descColor=67E8F9&animation=fadeIn" />
 
 <br/>
 
-<!-- ENGINEERING DOSSIER -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=750&lines=Welcome+to+my+Geospatial+World+%F0%9F%8C%8D;Turning+Pixels+into+Geospatial+Intelligence;Exploring+the+Power+of+GeoAI+%F0%9F%A4%96;Mapping+the+World+with+Deep+Learning;UAV+%7C+Satellite+%7C+Spatial+Data+Science;Building+the+Future+of+Geospatial+Technology" alt="Typing animation"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=dinesh6017l&label=PROFILE+VIEWS&color=0891B2&style=for-the-badge" alt="Profile views"/>
+
+<img src="https://img.shields.io/github/followers/dinesh6017l?label=FOLLOWERS&style=for-the-badge&color=0E7490&logo=github" alt="Followers"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌐 EXPLORING THE DIGITAL EARTH
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,4,5&height=3&section=header" width="90%"/>
+
+</div>
+
+## 🛰️ `01 — Engineering Profile`
 
 <div align="center">
 
 ```text
-┌──────────────────────────────────────────────────────────────────┐
-│  dinesh@geoai:~$ cat /profile/about.txt                           │
-├──────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  name       : Dinesh Bhandari                                    │
-│  username   : dinesh6017l                                        │
-│  education  : Geomatics Engineering                              │
-│  university : Kathmandu University                               │
-│  domain     : GIS · Remote Sensing · GeoAI                       │
-│  focus      : Deep Learning · Spatial Data Science               │
-│  exploring  : UAV Mapping · Satellite Imagery · WebGIS            │
-│  status     : LEARNING — BUILDING — EXPLORING                    │
-│                                                                  │
-│  dinesh@geoai:~$ █                                                │
-└──────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════╗
+║                    GEOAI SYSTEM CONSOLE                          ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  USER       : Dinesh Bhandari                                    ║
+║  GITHUB     : @dinesh6017l                                       ║
+║  EDUCATION  : Geomatics Engineering                              ║
+║  INSTITUTE  : Kathmandu University                               ║
+║                                                                  ║
+║  SPECIALTY  : Geospatial Intelligence                            ║
+║  INTERESTS  : Remote Sensing · GIS · Deep Learning               ║
+║  RESEARCH   : UAV Imagery · Agricultural Mapping                 ║
+║  EXPLORING  : GeoAI · Spatial Data Science · WebGIS               ║
+║                                                                  ║
+║  SYSTEM     : ● ONLINE                                           ║
+║  MISSION    : UNDERSTANDING OUR WORLD THROUGH DATA               ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-<br/>
+## 👨‍💻 `02 — About Me`
+
+I'm a **Geomatics Engineering student at Kathmandu University**, passionate about combining geospatial science, artificial intelligence, and software development.
+
+I explore how machine learning and remote sensing can transform spatial datasets into meaningful information.
+
+- 🌍 Geospatial technology and spatial intelligence.
+- 🛰️ Satellite imagery and UAV-based mapping.
+- 🤖 Deep learning and GeoAI applications.
+- 🌾 Agricultural field mapping and segmentation.
+- 🏢 Automated building footprint extraction.
+- 💻 Python-based GIS automation and geospatial development.
+
+---
+
+## ⚡ `03 — Technology Arsenal`
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:087E8B,100:22B8CF&height=2&width=85%25" width="85%"/>
-</div>
 
-<!-- ABOUT -->
+### Programming & Development
 
-## `01 / About Me`
+<img src="https://skillicons.dev/icons?i=python,rust,git,github,vscode&theme=dark&perline=5" />
 
-I'm a **Geomatics Engineering student at Kathmandu University**, interested in exploring how geospatial technologies and artificial intelligence can help us understand the real world.
+<br/><br/>
 
-My interests lie at the intersection of spatial science, remote sensing, and machine learning. I enjoy experimenting with geospatial datasets, developing deep learning workflows, and building practical GIS applications.
+### Artificial Intelligence
 
-- 🎓 Geomatics Engineering — Kathmandu University
-- 🌍 Exploring GeoAI and Spatial Data Science
-- 🛰️ Interested in UAV and satellite remote sensing
-- 🤖 Working with deep learning for geospatial applications
-- 💻 Exploring geospatial programming and automation
-- 🚀 Continuously learning and building new things
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
 
-<br/>
+<br/><br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:087E8B,100:22B8CF&height=2&width=85%25" width="85%"/>
-</div>
+### Geospatial Technologies
 
-<!-- TECH STACK -->
-
-## `02 / Technology Stack`
-
-> Tools and technologies I'm learning and working with.
-
-**Programming & Development**
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,rust,git,github,vscode&theme=dark" />
-</p>
-
-**GIS & Remote Sensing**
-
-<p align="center">
-<img src="https://img.shields.io/badge/ArcGIS-087E8B?style=for-the-badge&logo=esri&logoColor=white"/>
 <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArcGIS-0079C1?style=for-the-badge&logo=esri&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rasterio-236192?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge"/>
-</p>
 
-**AI & Data Science**
+<br/><br/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/>
+### Data Science
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:087E8B,100:22B8CF&height=2&width=85%25" width="85%"/>
 </div>
 
-<!-- PROJECTS -->
+---
 
-## `03 / Selected Projects`
+## 🚀 `04 — Featured Research & Projects`
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="90%"/>
+
+</div>
 
 ### 🌾 Agricultural Land Boundary Delineation
 
-Deep learning-based agricultural field mapping using high-resolution UAV imagery.
+**Deep Learning | UAV Imagery | GeoAI**
 
-- Semantic segmentation for agricultural field extraction.
-- Comparing U-Net, DeepLabV3+, SegNet and SegFormer.
-- Geospatial post-processing and polygon generation.
+Exploring semantic segmentation approaches for extracting agricultural fields from high-resolution UAV imagery.
 
-**Domain:** GeoAI · UAV · Deep Learning · GIS
+- U-Net
+- DeepLabV3+
+- SegNet
+- SegFormer
+
+`UAV` `Semantic Segmentation` `Raster Processing` `GIS`
 
 ### 🏢 Building Footprint Extraction
 
-Deep learning-based building footprint extraction from high-resolution imagery.
+**Computer Vision | Remote Sensing | Deep Learning**
 
-- U-Net with ConvNeXt V2 backbone.
-- Building segmentation and footprint extraction.
-- Geospatial output generation and analysis.
+Developing deep learning workflows for automated building footprint extraction from high-resolution imagery.
 
-**Domain:** Computer Vision · Remote Sensing · Deep Learning
+`U-Net` `ConvNeXt V2` `Image Segmentation` `Geospatial Analysis`
 
-### 🌐 Geospatial Development
+### 🌍 Geospatial Development
 
-Exploring geospatial programming, GIS automation, spatial data processing, and WebGIS applications.
+**Spatial Data Engineering | GIS Automation**
 
-**Domain:** Python · GIS · Spatial Data Science · WebGIS
+Exploring Python-based geospatial processing, spatial databases, and WebGIS applications.
 
-<br/>
+`Python` `Rasterio` `GeoPandas` `QGIS` `WebGIS`
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:087E8B,100:22B8CF&height=2&width=85%25" width="85%"/>
-</div>
+---
 
-<!-- GITHUB STATS -->
-
-## `04 / GitHub Analytics`
+## 📊 `05 — GitHub Analytics`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dinesh6017l&show_icons=true&hide_border=true&bg_color=0B1220&title_color=22B8CF&text_color=C9D1D9&icon_color=22B8CF&ring_color=087E8B"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dinesh6017l&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=06B6D4&text_color=C9D1D9&rank_icon=github"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh6017l&layout=compact&hide_border=true&bg_color=0B1220&title_color=22B8CF&text_color=C9D1D9"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh6017l&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=C9D1D9"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=dinesh6017l&hide_border=true&background=0B1220&ring=22B8CF&fire=087E8B&currStreakLabel=22B8CF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=dinesh6017l&theme=tokyonight&hide_border=true&background=020617&ring=22D3EE&fire=06B6D4&currStreakLabel=22D3EE"/>
 
 </div>
 
-<br/>
+---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:087E8B,100:22B8CF&height=2&width=85%25" width="85%"/>
-</div>
-
-<!-- CONTRIBUTION SNAKE -->
-
-## `05 / Contribution Activity`
+## 🐍 `06 — Contribution Activity`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dinesh6017l/dinesh6017l/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img width="100%" src="https://raw.githubusercontent.com/dinesh6017l/dinesh6017l/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
 
 </div>
 
-<br/>
+---
+
+## 📈 `07 — Contribution Graph`
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:087E8B,100:22B8CF&height=2&width=85%25" width="85%"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dinesh6017l&bg_color=020617&color=67E8F9&line=0891B2&point=22D3EE&area=true&hide_border=true&custom_title=GEOSPATIAL%20DEVELOPMENT%20ACTIVITY"/>
+
 </div>
 
-<!-- CURRENT FOCUS -->
+---
 
-## `06 / Current Focus`
-
-```text
-  [ACTIVE]    GeoAI and deep learning for remote sensing
-  [ACTIVE]    Agricultural field mapping using UAV imagery
-  [ACTIVE]    Semantic segmentation model experimentation
-  [ACTIVE]    Geospatial data processing with Python
-  [ONGOING]   Spatial data science and GIS automation
-  [EXPLORING] WebGIS and geospatial software development
-```
-
-<br/>
+## 🔭 `08 — Current Operations`
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:087E8B,100:22B8CF&height=2&width=85%25" width="85%"/>
+
+| Status | Focus |
+|:---:|---|
+| 🟢 ACTIVE | GeoAI and remote sensing |
+| 🟢 ACTIVE | Deep learning for UAV imagery |
+| 🟢 ACTIVE | Agricultural field extraction |
+| 🟢 ACTIVE | Python geospatial workflows |
+| 🔵 EXPLORING | Spatial databases |
+| 🔵 EXPLORING | WebGIS development |
+
 </div>
 
-<!-- CONNECT -->
+---
 
-## `07 / Connect`
+## 🤝 `09 — Connect With Me`
 
 <div align="center">
 
 <a href="https://github.com/dinesh6017l">
-<img src="https://img.shields.io/badge/GitHub-dinesh6017l-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
+### 💬 Always curious. Always exploring.
 
-<div align="center">
+*Turning geospatial data into meaningful intelligence.*
 
-```text
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│        "Understanding the world through spatial intelligence."   │
-│                                                                  │
-│                  Keep exploring. Keep building.                  │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:087E8B,50:102A43,100:0B1220&height=110&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0E7490,75:0891B2,100:020617&height=140&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
 
-<!-- END: DINESH BHANDARI | GEOAI -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   END OF GEOAI PROFILE                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
