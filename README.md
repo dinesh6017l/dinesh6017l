@@ -114,66 +114,129 @@ My work focuses on extracting meaningful information from satellite and UAV imag
 
 ---
 
-## `05` — Contribution Activity
+## `05` — Developer Dashboard
 
 <div align="center">
 
 <a href="https://github.com/dinesh6017l">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dinesh6017l&bg_color=020617&color=22D3EE&line=06B6D4&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Dinesh's GitHub Contribution Activity"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dinesh6017l&show_icons=true&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=06B6D4&text_color=CBD5E1&rank_icon=github" height="165" />
+</a>
+
+<a href="https://github.com/dinesh6017l">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh6017l&layout=compact&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1&langs_count=8" height="165"/>
 </a>
 
 </div>
 
 ---
 
-## `05` — Contribution Activity
+## `06` — Explore My GitHub
 
 <div align="center">
 
-<a href="https://github.com/dinesh6017l">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dinesh6017l&bg_color=020617&color=22D3EE&line=06B6D4&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Dinesh's GitHub Contribution Activity"/>
+<a href="https://github.com/dinesh6017l?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20Repositories-View%20Projects-0891B2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/dinesh6017l?tab=stars">
+<img src="https://img.shields.io/badge/Explore%20Stars-Discover%20Technology-0F766E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
+<details>
+<summary><b>🌍 Geospatial & GeoAI Projects</b></summary>
+
+Explore my work related to:
+
+- UAV image processing
+- Agricultural field delineation
+- Building footprint extraction
+- Remote sensing
+- GIS automation
+- Deep learning for geospatial applications
+
+<a href="https://github.com/dinesh6017l?tab=repositories">Browse geospatial repositories →</a>
+
+</details>
+
+<details>
+<summary><b>💻 Programming & Development</b></summary>
+
+Areas I am exploring:
+
+- Python development
+- Rust programming
+- Computer vision
+- Machine learning
+- Spatial data engineering
+- WebGIS development
+
+<a href="https://github.com/dinesh6017l?tab=repositories">Explore my code →</a>
+
+</details>
+
 ---
 
-## `07` — 3D Contribution Calendar
+## `07` — Research & Learning Focus
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dinesh6017l/dinesh6017l/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D GitHub contribution calendar"/>
+<img src="https://img.shields.io/badge/GeoAI-Exploring-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-Learning-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Remote%20Sensing-Researching-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Geospatial%20Development-Building-0F766E?style=flat-square"/>
 
 </div>
 
+<details>
+<summary><b>🧠 Artificial Intelligence & Computer Vision</b></summary>
+
+- Semantic segmentation
+- U-Net and DeepLabV3+
+- SegNet and SegFormer
+- Object and feature extraction
+- PyTorch and computer vision
+
+</details>
+
+<details>
+<summary><b>🛰️ Remote Sensing & Geomatics</b></summary>
+
+- UAV photogrammetry
+- Satellite image analysis
+- Raster and vector processing
+- Spatial analysis
+- Digital mapping
+
+</details>
+
+<details>
+<summary><b>⚙️ Development & Data Engineering</b></summary>
+
+- Python and Rust
+- Geospatial automation
+- Spatial databases
+- PostGIS
+- WebGIS and open-source GIS
+
+</details>
+
 ---
 
-## `08` — Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dinesh6017l/dinesh6017l/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
-
-</div>
-
----
-
-## `09` — Connect With Me
+## `08` — Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/dinesh6017l">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-020617?style=for-the-badge&logo=github"/>
 </a>
 
-<!-- Add your LinkedIn URL when ready -->
-<!-- <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a> -->
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=550&lines=Building+my+geospatial+development+journey;Learning+%7C+Researching+%7C+Creating;From+Geospatial+Data+to+Intelligence"/>
 
 </div>
-
-<div align="center">
 
 ### *Mapping the world. Learning through data. Building with AI.*
 
