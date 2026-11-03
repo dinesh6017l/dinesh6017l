@@ -112,6 +112,23 @@ My work focuses on extracting meaningful information from satellite and UAV imag
 
 </div>
 
+## `05` — Contribution Snake
+
+<div align="center">
+
+**Watch the snake eat my GitHub contributions. 🐍**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/dinesh6017l/dinesh6017l/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/dinesh6017l/dinesh6017l/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/dinesh6017l/dinesh6017l/output/github-contribution-grid-snake.svg"
+    width="100%">
+</picture>
+
+</div>
 ---
 
 ## `05` — Developer Dashboard
