@@ -118,17 +118,21 @@ My work focuses on extracting meaningful information from satellite and UAV imag
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dinesh6017l&bg_color=020617&color=22D3EE&line=06B6D4&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+<a href="https://github.com/dinesh6017l">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dinesh6017l&bg_color=020617&color=22D3EE&line=06B6D4&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Dinesh's GitHub Contribution Activity"/>
+</a>
 
 </div>
 
 ---
 
-## `06` — GitHub Trophies
+## `05` — Contribution Activity
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=dinesh6017l&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+<a href="https://github.com/dinesh6017l">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dinesh6017l&bg_color=020617&color=22D3EE&line=06B6D4&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Dinesh's GitHub Contribution Activity"/>
+</a>
 
 </div>
 
